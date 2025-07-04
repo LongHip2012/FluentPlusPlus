@@ -38,7 +38,9 @@ local Section = Tab:AddSection("Configuration", "cog")
 
 ## 🎨 Available Themes
 
+```ini
 AMOLED, Amethyst, Arctic, Aqua, Balloon, Bloody, Cloud, Dark, Darker, Emerald, Forest, GitHub Dark, GitHub Dark Dimmed, GitHub Dark High Contrast, GitHub Light, GitHub Light Colorblind, GitHub Light Default, GitHub Light High Contrast, Grape, Light, Midnight, Monokai, Monokai Classic, Monokai Dimmed, Monokai Vibrant, Ocean, Quiet Light, Rose, Sapphire, SoftCream, Solarized Dark, Solarized Light, Sunset, Tomorrow Night Blue, Typewriter, United GNOME, United Ubuntu, Viow Arabian, Viow Arabian Mix, Viow Flat, Viow Light, Viow Mars, Viow Neon, VSC Dark High Contrast, VSC Dark Modern, VSC Dark+, VSC Light High Contrast, VSC Light Modern, VSC Light+, VSC Red, VS Dark, VS Light, Vynixu, Yaru, Yaru Dark
+```
 
 ## 📄 License
 
