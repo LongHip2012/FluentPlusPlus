@@ -13,7 +13,7 @@ github.com/LongHip2012/FluentPlus | discord.gg/dBmXyaJhuK
 ]]
 
 --- button
-local Show_Button = false
+local Show_Button = true
 local Button_Icon = ""
 ---
 
@@ -37,7 +37,7 @@ else
 end
 
 if Show_Button then
-	Mobile = true
+	Mobile = false
 end
 
 local fischbypass
